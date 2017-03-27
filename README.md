@@ -30,4 +30,4 @@
 6. What is the kernel trick?
 
 ## Support Vector Machine in depth question
-<a href="https://www.dropbox.com/s/fkbahbmlljnym93/05%20Part%202%20-%20SVM%20margin%20and%20weights.docx?dl=0">See this Word document.</a>
+<a href="https://www.dropbox.com/s/paxi23l13b1aobu/Part%202%20-%20SVM%20margin%20and%20weights.docx?dl=0">See this Word document.</a>
