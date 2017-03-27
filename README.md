@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## LDA General Questions
+1. What are we maximizing in LDA?
+2. What are we minimizing in LDA?
+3. How do we combine them?
+4. Is LDA supervised learning?
+5. True or False - LDA can only have 2 classes.
 
-You can use the [editor on GitHub](https://github.com/Anderson-Lab/csci-334-2017-lda-svm-worksheet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Support Vector Machine General Questions
+1. True or False - The support vectors define the boundary
+2. What are we trying to maximize?
+3. Can SVMs be used for regression?
+4. What are three common kernels?
+5. Why are there two parameters to the kernel function?
+6. What is the kernel trick?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Support Vector Machine in depth question
+<a href="## LDA General Questions
+1. What are we maximizing in LDA?
+2. What are we minimizing in LDA?
+3. How do we combine them?
+4. Is LDA supervised learning?
+5. True or False - LDA can only have 2 classes.
 
-### Markdown
+## Support Vector Machine General Questions
+1. True or False - The support vectors define the boundary
+2. What are we trying to maximize?
+3. Can SVMs be used for regression?
+4. What are three common kernels?
+5. Why are there two parameters to the kernel function?
+6. What is the kernel trick?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anderson-Lab/csci-334-2017-lda-svm-worksheet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support Vector Machine in depth question
+<a href="https://www.dropbox.com/s/fkbahbmlljnym93/05%20Part%202%20-%20SVM%20margin%20and%20weights.docx?dl=0">See this Word document.</a>
